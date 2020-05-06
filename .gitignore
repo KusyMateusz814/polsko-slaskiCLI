@@ -1,0 +1,5 @@
+*~
+*.sw*
+venv/
+geckodriver.log
+SlaskiTranslator.png
